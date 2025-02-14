@@ -1,0 +1,2 @@
+# springboot_rental_culture_food_shop_online_docs
+SpringBoot 项目集合，涵盖多个热门应用场景，适用于学习、实践和企业级开发。仓库包括 基于SpringBoot的房屋租赁系统，支持房源管理、用户租赁、在线支付等功能；基于SpringBoot的非物质文化网站系统，聚焦文化传承，提供信息展示、用户交互等模块；基于SpringBoot的网上点餐系统，具备菜单管理、订单处理、支付整合等核心功能；基于SpringBoot的网上购物商城系统，包含商品管理、购物车、订单支付等完整电商流程；基于SpringBoot的在线文档管理系统，支持文档存储、权限管理、在线协作等特性
